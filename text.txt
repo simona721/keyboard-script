@@ -1,0 +1,18 @@
+Pangrams - a unique sentence in which every letter of the alphabet is used at least once. The name comes from the Greek root words pan, meaning all, and gram, meaning something written or recorded. Consider the following examples.
+
+1. Waltz, bad nymph, for quick jigs vex. (28 letters)
+2. Quick zephyrs blow, vexing daft Jim. (29 letters)
+3. Sphinx of black quartz, judge my vow. (29 letters)
+4. Two driven jocks help fax my big quiz. (30 letters)
+5. Five quacking zephyrs jolt my wax bed. (31 letters)
+
+6. The five boxing wizards jump quickly. (31 letters)
+7. Pack my box with five dozen liquor jugs. (32 letters)
+8. The quick brown fox jumps over the lazy dog. (35 letters)
+9. Jinxed wizards pluck ivy from the big quilt. (36 letters)
+10. Crazy Fredrick bought many very exquisite opal jewels. (46 letters)
+
+11. We promptly judged antique ivory buckles for the next prize. (50 letters)
+12. A mad boxer shot a quick, gloved jab to the jaw of his dizzy opponent. (54 letters)
+13. Jaded zombies acted quaintly but kept driving their oxen forward. (55 letters)
+14. The job requires extra pluck and zeal from every young wage earner. (55 letters)
